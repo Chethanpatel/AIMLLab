@@ -1,10 +1,10 @@
 # ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LABORATORY 
 
-# (Effective from the academic year 2018 -2019) 
+(Effective from the academic year 2018 -2019)
  
-# SEMESTER – VII
-# Course Code 18CSL76 CIE Marks 40 
-# Credits – 2 
+SEMESTER – VII
+Course Code 18CSL76 CIE Marks 40 
+Credits – 2 
 
 
 # Programs List: 
