@@ -3,7 +3,9 @@
 (Effective from the academic year 2018 -2019)
  
 SEMESTER – VII
-Course Code 18CSL76 CIE Marks 40 
+
+Course Code 18CSL76 
+
 Credits – 2 
 
 
