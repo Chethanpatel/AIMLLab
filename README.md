@@ -4,7 +4,7 @@
  
 SEMESTER – VII
 
-Course Code 18CSL76 
+Course Code - 18CSL76 
 
 Credits – 2 
 
