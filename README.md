@@ -1,18 +1,14 @@
-# AIMLLab
+# ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LABORATORY 
 
-ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING LABORATORY 
-(Effective from the academic year 2018 -2019) 
-SEMESTER – VII
-Course Code 18CSL76 CIE Marks 40 
-Number of Contact Hours/Week 0:0:2 SEE Marks 60 
-Total Number of Lab Contact Hours 36 Exam Hours 03 
- Credits – 2 
-Course Learning Objectives: This course (18CSL76) will enable students to:
-• Implement and evaluate AI and ML algorithms in and Python programming language. 
-Descriptions (if any): 
-Installation procedure of the required software must be demonstrated, carried out in groups 
-and documented in the journal.
-Programs List: 
+# (Effective from the academic year 2018 -2019) 
+ 
+# SEMESTER – VII
+# Course Code 18CSL76 CIE Marks 40 
+# Credits – 2 
+
+
+# Programs List: 
+
 1. Implement A* Search algorithm. 
 2. Implement AO* Search algorithm. 
 3. For a given set of training data examples stored in a .CSV file, implement and demonstrate the 
